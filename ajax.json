@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Smartphone A",
+        "description": "Latest model with high resolution camera",
+        "category": "electronics",
+        "price": 499.99,
+        "image": "https://via.placeholder.com/150?text=Smartphone+A"
+    },
+    {
+        "id": 2,
+        "name": "Laptop B",
+        "description": "High performance laptop for work and gaming",
+        "category": "electronics",
+        "price": 899.99,
+        "image": "https://via.placeholder.com/150?text=Laptop+B"
+    },
+    {
+        "id": 3,
+        "name": "T-shirt X",
+        "description": "Comfortable cotton T-shirt available in various sizes",
+        "category": "clothing",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/150?text=T-shirt+X"
+    },
+    {
+        "id": 4,
+        "name": "Shoes Y",
+        "description": "Stylish running shoes for athletes",
+        "category": "clothing",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/150?text=Shoes+Y"
+    },
+    {
+        "id": 5,
+        "name": "Blender Z",
+        "description": "Powerful blender for smoothies and soups",
+        "category": "home",
+        "price": 99.99,
+        "image": "https://via.placeholder.com/150?text=Blender+Z"
+    }
+]
